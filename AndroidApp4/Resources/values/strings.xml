@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidApp4</string>
+    <string name="app_text">Hello, Android!</string>
+	<string name="Act2">Act2</string>
+</resources>
